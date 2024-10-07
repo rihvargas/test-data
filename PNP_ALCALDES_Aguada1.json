@@ -1,0 +1,28 @@
+{
+    "candidates": [
+        {
+            "name": "Noel Pérez Crespo",
+            "votes": 261,
+            "percentage": "7.47%",
+            "party": "PNP"
+        },
+        {
+            "name": "Josué O. Quiñones Moret",
+            "votes": 1203,
+            "percentage": "34.44%",
+            "party": "PNP"
+        },
+        {
+            "name": "Iván Ruiz Cordero",
+            "votes": 696,
+            "percentage": "19.93%",
+            "party": "PNP"
+        },
+        {
+            "name": "Wilbert Nieves Chaparro",
+            "votes": 1333,
+            "percentage": "38.16%",
+            "party": "PNP"
+        }
+    ]
+}
